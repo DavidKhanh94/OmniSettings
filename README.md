@@ -1,0 +1,2 @@
+# OmniSettings
+com.android.omnisettings
